@@ -6,6 +6,4 @@ You can use this software to simple Hospital issues such as create a patient, ta
   
   
 You need install these software before run: 
-
-TomCat Server
-IntelliJ
+TomCat Server - IntelliJ
